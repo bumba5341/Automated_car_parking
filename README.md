@@ -3,7 +3,7 @@
 Here I Implemented automated car parking system using arduino. 
 
 Sensor used : a) PIR - for detecting the motion of car.
-              b) LDR - for detecting the motion of car.
+              b) LDR - for detecting the intensity of light.
               
  I use a green led to understand availibility of parking and a red led use to understand parking is full.
  when the car sufficient near the parking the gate is automically open . 
