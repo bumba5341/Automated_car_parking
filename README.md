@@ -12,4 +12,4 @@ Sensor used : a) PIR - for detecting the motion of car.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/bumba5341/Automated_car_parking/blob/master/Image/arduino.png)
