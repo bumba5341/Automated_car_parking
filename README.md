@@ -9,3 +9,7 @@ Sensor used : a) PIR - for detecting the motion of car.
  when the car sufficient near the parking the gate is automically open . 
  
  when the intensity of light is decrease , measered by ldr sensor ,  the light in parking automically lighted. when it is day the light is automacilly switched  off. No man power use in this case.
+
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
