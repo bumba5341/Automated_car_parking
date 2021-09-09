@@ -3,7 +3,7 @@
 
 It is a IOT based project . Here I  build a automated car parking.
 
-Green LED used to understand the availibility of the parking, where as the red led was used to understand that the parking is full.
+Green LED used to understand the availibility of the parking, where as the red led indicated that the parking is full.
 
 
 
@@ -11,7 +11,7 @@ Green LED used to understand the availibility of the parking, where as the red l
 
 - Arduino Board
 - PIR Sensor - for detecting the motion of car
-- LDR Sensor - for detecting the intencity of light 
+- LDR Sensor - for detecting the intensity of light 
 - LED (Green, Red, White)
 - Some wire
   
